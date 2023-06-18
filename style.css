@@ -1,0 +1,15 @@
+table {
+   /* width: 800px; */
+   text-align: center;
+}
+
+.blue {
+    background-color: rgb(102, 102, 204);
+}
+
+.yellow {
+    background-color: yellow;
+}
+td {
+    /* width: 155px; */
+}
